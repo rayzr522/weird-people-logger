@@ -1,0 +1,12 @@
+{
+  "name": "weird-people-logger",
+  "version": "1.0.0",
+  "description": "Log messages from weird people on Discord",
+  "main": "index.js",
+  "repository": "https://github.com/Rayzr522/weird-people-logger",
+  "author": "Rayzr",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
